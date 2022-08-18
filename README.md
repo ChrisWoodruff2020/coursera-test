@@ -1,4 +1,5 @@
-## Chris Woodruff
+# Chris Woodruff
+## Software Developer
 
 You can use the [editor on GitHub](https://github.com/ChrisWoodruff2020/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
